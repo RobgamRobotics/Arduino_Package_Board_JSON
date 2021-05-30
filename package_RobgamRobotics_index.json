@@ -3,9 +3,9 @@
   [
     {
       "name": "ROBGAM ROBOTICS",
-      "maintainer": "Robotics Masters",
-      "websiteURL": "https://roboticsmasters.com",
-      "email" : "techsupport@roboticsmasters.com",
+      "maintainer": "Robotic",
+      "websiteURL": "https://www.facebook.com/RobgamRobotics/",
+      "email" : "robgam.mx@outlook.com",
       "platforms":
       [
         {
@@ -13,10 +13,10 @@
           "architecture": "AVR",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/MarioRoldan97/ROBGAM_BOARD/blob/main/ROBGAM.zip?raw=true", 
-          "archiveFileName": "ROBGAM.zip",
-          "checksum": "SHA-256:2728c607cc2c635d6aace488e0068eed8ec1c81ba385d08914afbeb2da9100e4",
-          "size": "6184872",
+          "url": "https://github.com/RobgamRobotics/Arduino_Package_Board/blob/main/ROBGAM%20ROBOTICS.zip?raw=true", 
+          "archiveFileName": "ROBGAM ROBOTICS.zip",
+          "checksum": "SHA-256:d525cba0e98c7923f724117f158333626b2f5aeea681393bd9ae3c95aab39e6c",
+          "size": "6218891",
           "boards": [
             {
               "name": "Diversity"
