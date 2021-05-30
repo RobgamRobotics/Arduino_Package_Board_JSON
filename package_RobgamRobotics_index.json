@@ -13,10 +13,10 @@
           "architecture": "AVR",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/RobgamRobotics/Arduino_Package_Board/blob/main/ROBGAM%20ROBOTICS.zip?raw=true", 
-          "archiveFileName": "ROBGAM ROBOTICS.zip",
-          "checksum": "SHA-256:d525cba0e98c7923f724117f158333626b2f5aeea681393bd9ae3c95aab39e6c",
-          "size": "6218891",
+          "url": "https://github.com/RobgamRobotics/Arduino_Package_Board/blob/main/ROBGAM%20ROBOTICS%20V0.0.1.zip?raw=true", 
+          "archiveFileName": "ROBGAM ROBOTICS V0.0.1.zip",
+          "checksum": "SHA-256:f1a68888e082af71ab65faf166bdf58a14425e634e53326fb77d310088c12ac2",
+          "size": "6230118",
           "boards": [
             {
               "name": "Diversity"
